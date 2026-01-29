@@ -40,5 +40,11 @@ body {
 }
 
   
+.white.active {
+    background-color: #ccc;
+}
 
+.black.active {
+    background-color: #ccc;
+}
 
